@@ -1,0 +1,33 @@
+body {
+    background-image: url()
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin: 20px auto;
+    background-color: #ffffff91;
+    text-align: center;
+    width: 80%;
+}
+form {
+    padding: 10px;
+    text-align: left;
+}
+
+input{
+    display: block;
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid black;
+    width: 90%;
+    outline: none;
+    margin: 15px;
+}
+
+input[type="radio"]{
+    display: inline;
+    width: 15px;
+    margin: 10px;
+}
